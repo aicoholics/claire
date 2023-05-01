@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/claire/static/css/main.56d6cf58.css",
+    "main.js": "/claire/static/js/main.2ba30883.js",
+    "index.html": "/claire/index.html",
+    "main.56d6cf58.css.map": "/claire/static/css/main.56d6cf58.css.map",
+    "main.2ba30883.js.map": "/claire/static/js/main.2ba30883.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.56d6cf58.css",
+    "static/js/main.2ba30883.js"
+  ]
+}
