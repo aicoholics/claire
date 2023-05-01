@@ -1,1 +1,1 @@
-export const apiUrl = 'http://10.183.54.64:5000/';
+export const apiUrl = 'https://claire-aicoholics.herokuapp.com/';
